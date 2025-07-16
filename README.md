@@ -62,7 +62,6 @@ This project analyzes drug review data from real patients to uncover insights ab
 ## 👩‍💻 Author
 
 **Alfeeya Shaikh**  
-📧 [your-email@email.com]  
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+📧 [alfeeyashaikh2023@gmail.com]   
 🔗 [GitHub Profile](https://github.com/Alfeeya)
 
